@@ -1,0 +1,32 @@
+# Ignore object files, executables, and shared libs
+*.o
+*.obj
+*.so
+*.exe
+*.out
+*.dll
+*.a
+*.lib
+
+# Ignore build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Ignore code editor temp files
+*.log
+*.tmp
+*.swp
+
+# VS Code settings
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
