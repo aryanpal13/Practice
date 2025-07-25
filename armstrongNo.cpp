@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+
 bool isArmstrongNo(int n) {
+    // incomplete
     int dup = n;
     int sum = 0;
     int lastDigit;
