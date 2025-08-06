@@ -23,7 +23,7 @@ void nNo(int i, int n) {
     }
 }
 
-//function print reverse of an array using recursion
+//function to print reverse of an array using recursion
 void revArray (int arr[], int i, int n) {
     if(i>=n/2) {
         return;
